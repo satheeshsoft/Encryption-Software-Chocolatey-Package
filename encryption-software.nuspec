@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>    
+    <id>encryption-software</id>    
+    <version>108.30.2019.1</version>
+    <packageSourceUrl>https://github.com/satheeshsoft/Encryption-Software-Chocolatey-Package</packageSourceUrl>
+    <owners>satheeshsoft</owners>
+    <title>Encryption Software</title>
+    <authors>satheeshsoft</authors>    
+    <projectUrl>http://www.softcleaner.in/soft-cleaner-safe</projectUrl>
+    <iconUrl>http://www.softcleaner.in/satheeshsoft/encryption-softwareIcon.png</iconUrl>
+    <copyright>2019 satheeshsoft</copyright>    
+    <licenseUrl>http://www.softcleaner.in/privacy-policy</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>    
+    <docsUrl>http://www.softcleaner.in/soft-cleaner-safe</docsUrl>
+    <mailingListUrl>http://www.softcleaner.in/contact</mailingListUrl>
+    <bugTrackerUrl>https://groups.google.com/forum/#!forum/satheeshsoft</bugTrackerUrl>
+    <tags>encrypt encryption satheeshsoft security privacy data bigdata cryptography</tags>
+    <summary>Encryption Software for encrypt any local or remote file in complete protection</summary>
+    <description>Download Encryption Software. Encrypt any local or remote file with your password or Same PC automated password. Multi-tier asynchronous data protection. Recommended OS: Windows 10 only</description>
+    <releaseNotes>Main update</releaseNotes>
+  </metadata>
+  <files>    
+    <file src="tools\**" target="tools" />    
+  </files>
+</package>
